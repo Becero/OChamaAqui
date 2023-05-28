@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OChamaAqui.DATA", "OChamaAqui.DATA\OChamaAqui.DATA.csproj", "{9ED5947E-93AA-45A9-988B-8D3837C40D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OChamaAqui", "OChamaAqui\OChamaAqui.csproj", "{83E99FC4-3871-49F4-954D-367A9535A22B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED5947E-93AA-45A9-988B-8D3837C40D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED5947E-93AA-45A9-988B-8D3837C40D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED5947E-93AA-45A9-988B-8D3837C40D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED5947E-93AA-45A9-988B-8D3837C40D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E99FC4-3871-49F4-954D-367A9535A22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E99FC4-3871-49F4-954D-367A9535A22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E99FC4-3871-49F4-954D-367A9535A22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E99FC4-3871-49F4-954D-367A9535A22B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {589B6FA3-2A0A-4D79-A38A-ABA59703C2CD}
+	EndGlobalSection
+EndGlobal
